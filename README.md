@@ -1,4 +1,4 @@
-# Self Managed Active Directory + Windows EC2 + FSx for Windows Server
+# Self Managed Active Directory +  FSx for Windows Server
 
 このプロジェクトは、AWS CDK（Python）を使用してActive Directory ドメインコントローラー、Windows EC2インスタンス、FSx for Windows File Serverを作成するIaCテンプレートです。
 

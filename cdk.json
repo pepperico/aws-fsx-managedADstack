@@ -94,7 +94,7 @@
     "@aws-cdk/aws-lambda:useCdkManagedLogGroup": true,
     "windows-version": "2022",
     "windows-language": "Japanese",
-    "key-pair-name": "an-takasato",
+    "key-pair-name": "YourKeyPair",
     "fsx-storage-capacity": 32,
     "fsx-storage-type": "SSD",
     "fsx-deployment-type": "SINGLE_AZ_2",
